@@ -120,8 +120,7 @@ Claude Code에서 다음과 같이 트리거한다:
 
 ## 요구사항
 
-- Claude Code CLI
-- 에이전트 팀 기능 활성화: `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1`
+- [에이전트 팀 기능 활성화](https://code.claude.com/docs/en/agent-teams): `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1`
 
 ## 라이선스
 
